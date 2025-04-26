@@ -69,7 +69,8 @@
 
     <footer class="footer text-center">
         <div class="container">
-            <span class="text-muted">Aplikasi Manajemen Donasi Sosial © {{ date('Y') }}</span>
+            <span class="text-muted">Aplikasi Manajemen Donasi Sosial © {{ date('Y') }} by Nauval Alpen
+                Perdana</span>
         </div>
     </footer>
 
